@@ -1,0 +1,6 @@
+{
+  "name": "Easy English CRM & Telegram Bot",
+  "description": "Full-stack CRM-система и Telegram-бот онлайн-школы Easy English для сбора, квалификации и обработки заявок студентов менеджерами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
